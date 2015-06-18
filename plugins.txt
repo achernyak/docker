@@ -1,0 +1,2 @@
+git:latest
+git-client:latest
